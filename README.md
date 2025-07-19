@@ -1,4 +1,4 @@
 * 👋 Hi, I'm Shun.
 * 🛠️ Core Stack: TypeScript, JavaScript, Node.js, React, MongoDB, PostgreSQL, AWS (Serverless)
-* 📚 Currently learning: AWS Lambda, containers, foundations of computing
+* 📚 Currently learning: AWS Lambda, containers, MCP/Agent, foundations of computing
 * 📫 Where else you can find me: [LinkedIn](https://www.linkedin.com/in/shun-ito-89467152/) 
