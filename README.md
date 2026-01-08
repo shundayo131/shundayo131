@@ -1,4 +1,17 @@
-* 👋 Hi, I'm Shun.
-* 🛠️ Core Stack: TypeScript, JavaScript, Node.js, React, MongoDB, PostgreSQL, AWS (Serverless)
-* 📚 Currently learning: AWS Lambda, containers, MCP/Agent, foundations of computing
-* 📫 Where else you can find me: [LinkedIn](https://www.linkedin.com/in/shun-ito-89467152/) 
+# 👋 Hi, I'm Shun
+**Product Engineer** passionate about building applications that solve real problems.
+
+Coming from a product marketing background in E-commerce and cloud computing, I bring a unique perspective that bridges technical implementation and user needs. I'm driven by the challenge of turning ideas into functional, scalable products.
+
+## 🚀 Current Project
+Building **[memoca.net](https://memoca.net)** — a flashcard app helping people master new languages through repetition and a simple, intuitive learning experience.
+
+## 🛠️ Tech Stack
+**Frontend:** TypeScript, Next.js, React, Tailwind CSS  
+**Backend:** Node.js, PostgreSQL, Supabase  
+**Infrastructure:** AWS (ECS, Lambda, S3 etc), Docker 
+
+## 📚 Currently Exploring
+- GenAI & Agent Architectures
+- Container Orchestration & Networking
+- Computer Science Fundamentals
