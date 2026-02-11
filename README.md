@@ -4,7 +4,7 @@
 Coming from a product marketing background in E-commerce and cloud computing, I bring a unique perspective that bridges technical implementation and user needs. I'm driven by the challenge of turning ideas into functional, scalable products.
 
 ## 🚀 Current Project
-Currently building AI apps for language learners **[memoca.net](https://memoca.net)** and **[OrcaLang](https://orcalang.vercel.app/)**.
+Currently building AI apps for language learners - **[memoca.net](https://memoca.net)** and **[OrcaLang](https://orcalang.vercel.app/)**.
 
 ## 🛠️ Tech Stack
 **Frontend:** TypeScript, Next.js, React, Tailwind CSS  
