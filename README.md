@@ -1,5 +1,4 @@
 # Hi, I'm Shun 👋
----
 
 📍 SF Bay Area | 🛠️ Product Engineer | 🚀 Passionate about building apps that solve real problems
 
