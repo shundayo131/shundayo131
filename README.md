@@ -17,12 +17,12 @@
 
 > Coming from a product marketing background in E-commerce and cloud computing, I bring a unique perspective that bridges technical implementation and user needs. Driven by the challenge of turning ideas into functional, scalable products.
 
-🚀 Currently building AI apps for language learners — **[memoca.net](https://memoca.net)** and **[OrcaLang](https://orcalang.vercel.app/)**
-
 📚 Exploring: AI & Agent Architectures, Container Orchestration & Networking, CS Fundamentals
 
 📫 Find me on [LinkedIn](https://www.linkedin.com/in/shun-ito-89467152/)
 
 ## Current Projects
 
-<!-- Add your projects here -->
+- 🗣️ [memoca.net](https://memoca.net) - AI-powered flashcard app for language learners
+- 🐬 [Orca Speak](https://orcalang.vercel.app/) - AI language learning app
+- 🔍 [xpulse](https://github.com/shundayo131/xpulse) - AI-powered research CLI for X (Twitter); agent-driven search, trust scoring & analysis
