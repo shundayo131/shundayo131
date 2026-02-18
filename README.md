@@ -1,5 +1,4 @@
 # Hi, I'm Shun 👋
-
 ---
 
 📍 SF Bay Area | 🛠️ Product Engineer | 🚀 Passionate about building apps that solve real problems
@@ -14,6 +13,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 
 > Coming from a product marketing background in E-commerce and cloud computing, I bring a unique perspective that bridges technical implementation and user needs. Driven by the challenge of turning ideas into functional, scalable products.
 
@@ -21,7 +21,7 @@
 
 📫 Find me on [LinkedIn](https://www.linkedin.com/in/shun-ito-89467152/)
 
-## Current Projects
+## Projects
 
 - 🗣️ [memoca.net](https://memoca.net) - AI-powered flashcard app for language learners
 - 🐬 [Orca Speak](https://orcalang.vercel.app/) - AI language learning app
