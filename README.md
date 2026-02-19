@@ -25,3 +25,4 @@
 - 🗣️ [memoca.net](https://memoca.net) - AI-powered flashcard app for language learners
 - 🐬 [Orca Speak](https://orcalang.vercel.app/) - AI language learning app
 - 🔍 [xpulse](https://github.com/shundayo131/xpulse) - AI-powered research CLI for X (Twitter); agent-driven search, trust scoring & analysis
+- 📋 [kanli](https://github.com/shundayo131/kanli) - Terminal-based Kanban board for managing programming tasks
