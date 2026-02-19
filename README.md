@@ -26,3 +26,4 @@
 - 🐬 [Orca Speak](https://orcalang.vercel.app/) - AI language learning app (Next.js, Supabase, Vercel)
 - 🔍 [xpulse](https://github.com/shundayo131/xpulse) - AI-powered research CLI for X (Twitter); agent-driven search, trust scoring & analysis
 - 📋 [kanli](https://github.com/shundayo131/kanli) - Terminal-based Kanban board for managing programming tasks
+- 🌿 [PolleNow](https://github.com/shundayo131/PolleNow) - Go CLI tool for pollen forecasts in your terminal; grass, tree & weed levels for any US ZIP code (Go, Google Pollen API)
